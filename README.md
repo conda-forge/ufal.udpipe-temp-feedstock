@@ -84,7 +84,6 @@ Current build status
                 </a>
               </td>
             </tr><tr>
-
               <td>osx_python3.8</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=4817&branchName=master">
@@ -105,7 +104,6 @@ Current build status
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/ufal.udpipe-temp-feedstock?branchName=master&jobName=win&configuration=win_c_compilervs2015cxx_compilervs2015python3.7vc14" alt="variant">
                 </a>
               </td>
-
             </tr><tr>
               <td>win_c_compilervs2015cxx_compilervs2015python3.8vc14</td>
               <td>
